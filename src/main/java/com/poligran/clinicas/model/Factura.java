@@ -1,14 +1,14 @@
 package com.poligran.clinicas.model;
 
 import jakarta.persistence.Entity;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
 @Getter
 @Setter
-@AllArgsConstructor
+@NoArgsConstructor
 public class Factura extends Dominio {
-
+	private String nombre;
 }

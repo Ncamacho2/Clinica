@@ -1,11 +1,13 @@
 package com.poligran.clinicas.model;
 
 import jakarta.persistence.Entity;
-import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 @Entity
-@Data
+@Getter
+@Setter
 @NoArgsConstructor
 public class Cita extends Dominio{
 	
