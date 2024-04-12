@@ -9,7 +9,10 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class Cita extends Dominio{
-	
-	private String nombre;
+public class Cita extends Dominio {
+	private Integer pacienteId;
+	private String pacienteNombre;
+	private Integer medicoId;
+	private String medicoNombre;
+	private String motivoConsulta;
 }
