@@ -1,1 +1,1 @@
-![image](https://github.com/Ncamacho2/Clinica/assets/41797822/0485fa1b-bbfb-4e6b-96bc-33437beefd4c)
+![image](https://github.com/Ncamacho2/Clinica/assets/41797822/e8e455b4-2c4d-46e4-937a-c60753eb614d)
