@@ -22,7 +22,7 @@ public class ApiDocumentationConfig {
                                 .name("Grupo B01 Subgrupo 1")
                                 .email("nacamacho@poligran.edu.co")))
                 .externalDocs(new ExternalDocumentation()
-                        .description("Documentation")
+                        .description("Entrega 2")
                         .url("https://github.com/Ncamacho2/Clinica"));
     }
 
